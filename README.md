@@ -1,4 +1,4 @@
-# A Technical Text v1.0
+# Tech Test v1.0
 
 
 ## Available Scripts
